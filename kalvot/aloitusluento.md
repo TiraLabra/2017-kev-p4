@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Saska Dönges
-% 18.1.2017
+% 15.3.2017
 
 # Ohjaajat
 
@@ -9,7 +9,7 @@
 - Yhteyttä sähköpostilla tai irkissä
 
 - IRC-kanava **#tiralabra2017** @ IRCnet
-- Kurssisivu https://github.com/TiraLabra/2017-kev-periodi3/wiki
+- Kurssisivu https://github.com/TiraLabra/2017-kev-p4/wiki
 
 # Mistä kyse?
 
@@ -28,6 +28,7 @@
 
 - Toteutuskieli ohjaajan hyväksyttävä. Ainakin Java käy.
     - Myös esim c#, Python, c sallittuja.
+    - Ota huomioon että vaaditaan jonkinlainen testikattavuusraportointi
 - Käytössä **Git**-versionhallinta sekä **GitHub**
 - Harjoitustyö on **yksilötyö**
 - Tuloksena **suoritettava ohjelma**
@@ -52,7 +53,7 @@
 - **Deadlinet** maanantaisin aina kello 10:00
     - Deadlinestä annetaan 0-3 pistettä kunkin deadlinen tehtävien mukaisesti
         - Ekalla viikolla poikkeuksellisesti 0-1
-    - Ensimmäinen deadline **ensi viikon maaantaina!**
+    - Ensimmäinen deadline **Launtaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
