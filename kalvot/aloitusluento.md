@@ -50,10 +50,10 @@
 
 # Kurssin kulku
 
-- **Deadlinet** maanantaisin aina kello 10:00
+- **Deadlinet** lauantaisin aina kello 23:59
     - Deadlinestä annetaan 0-3 pistettä kunkin deadlinen tehtävien mukaisesti
         - Ekalla viikolla poikkeuksellisesti 0-1
-    - Ensimmäinen deadline **Launtaina!**
+    - Ensimmäinen deadline nyt **Launtaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
