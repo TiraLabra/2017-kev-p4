@@ -96,6 +96,6 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/TiraLabra/2017-kev-periodi3
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/TiraLabra/2017-kev-p4/wiki
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Jään hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
